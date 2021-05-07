@@ -8,7 +8,7 @@ I'm currently building my portfolio, graduating in Computer Science at [UENP](ht
 <td><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurd99&hide_border=true&theme=tokyonight&bg_color=0D1117" /></td>
 
 
-# Some information about me:
+## Some information about me:
 
 > 🗨️ JavaScript, TypeScript, Python 3, HTML + CSS
 
