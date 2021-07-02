@@ -34,12 +34,10 @@
   > 💻 NodeJS, Express, Strap, Git, RESTful APIs
   
   > 💾 MySQL/MariaDB, PostgreSQL, SQLite, MongoDB
-  
-  > 🌎 Currently living in Santa Amélia, Paraná, Brasil
-  
-  > ⚽ I love sports, specially football and bodybuilding
-  
-  > 💼 Co-founder of [LifeSport Store](https://lifesport.mercadoshops.com.br/ "Sportswear store")
-  
-  > 📔 Know more about me in my [personal page](https://arthurd99.github.io "Portfolio of Arthur Diniz da Luz")
+
+  > 💼 Co-founder of <a href="https://lifesport.mercadoshops.com.br/">LifeSport Store</a>
+
+  <h2>
+    Know more about me in my <a href="https://arthurd99.github.io">personal page</a>
+  </h2>
 </p>
