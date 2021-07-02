@@ -35,9 +35,9 @@
   
   > 💾 MySQL/MariaDB, PostgreSQL, SQLite, MongoDB
 
-  > 💼 Co-founder of <a href="https://lifesport.mercadoshops.com.br/">LifeSport Store</a>
+  > 💼 Co-founder of <a href="https://lifesport.mercadoshops.com.br/" target="_blank">LifeSport Store</a>
 
   <h2>
-    Know more about me in my <a href="https://arthurd99.github.io">personal page</a>
+    Know more about me in my <a href="https://arthurd99.github.io" target="_blank">personal page</a>
   </h2>
 </p>
