@@ -9,11 +9,11 @@
   <a href="https://www.instagram.com/arthurdiluz/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://t.me/arthurdiluz" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="https://wa.me/5543998048845/" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/arthurdiluz" alt="Telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:arthurdiluz@outlook.com" alt="Outlook" target="_blank">
     <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=MIcrosoft%20Outlook&logoColor=white"/>
@@ -35,9 +35,12 @@
   
   > 💾 MySQL/MariaDB, PostgreSQL, SQLite, MongoDB
 
-  > 💼 Co-founder of <a href="https://lifesport.mercadoshops.com.br/" target="_blank">LifeSport Store</a>
+  > ⚽ Athlete of football, body building and others
 
   <h2>
-    Know more about me in my <a href="https://arthurdiluz.github.io" target="_blank">personal page</a>
+    Know more about me in my
+    <a href="https://arthurdiluz.github.io" target="_blank">
+      personal page
+    </a>
   </h2>
 </p>
