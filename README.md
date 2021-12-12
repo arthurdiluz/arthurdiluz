@@ -18,25 +18,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurdiluz&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <h1>A brief summary about me and my specialties</h1>
-  
-  > 🗨️ JavaScript, TypeScript, Python 3, HTML + CSS
-  
-  > 🌐 Webpack, Babel, React, Redux, NextJS, EJS
-  
-  > 💻 NodeJS, Express, Strap, Git, RESTful APIs
-  
-  > 💾 MySQL/MariaDB, PostgreSQL, SQLite, MongoDB
-
-  > ⚽ Athlete of football, body building and others
-
-  <h2>
-    Know more about me in my
+  <h1>
+    Access my
     <a href="https://arthurdiluz.github.io" target="_blank">
       personal page
     </a>
-  </h2>
+    for more information.
+  </h1>
 </p>
