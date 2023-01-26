@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurdiluz&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
   <h1>
     Access my
     <a href="https://arthurdiluz.github.io" target="_blank">
