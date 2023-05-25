@@ -15,3 +15,6 @@
     <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=MIcrosoft%20Outlook&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurdiluz&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
+</p>
