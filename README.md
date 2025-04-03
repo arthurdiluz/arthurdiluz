@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://arthurdiluz.github.io" alt="Personal Page" target="_blank">
-    <img src="https://img.shields.io/website?label=Personal%20Page&style=for-the-badge&url=https%3A%2F%2Farthurdiluz.github.io"/>
-  </a>
   <a href="https://www.linkedin.com/in/arthurdiluz/" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
